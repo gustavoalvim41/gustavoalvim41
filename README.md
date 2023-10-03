@@ -1,5 +1,7 @@
 ## Olá, Sou o Gustavo 👋
 
+Eu amo programação, me divirto muito e tomo bastante café durante meus projetos.
+
 <!--
 **gustavoalvim41/gustavoalvim41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

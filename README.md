@@ -1,4 +1,4 @@
-## Olá, Sou o Gustavo Alvim 👋
+## Olá, Sou o Gustavo 👋
 
 <!--
 **gustavoalvim41/gustavoalvim41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
